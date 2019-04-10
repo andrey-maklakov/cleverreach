@@ -10,10 +10,10 @@ $EM_CONF[$_EXTKEY] = [
     'author' => 'Sven Wappler',
     'author_email' => 'typo3YYYY@wappler.systems',
     'author_company' => 'WapplerSystems',
-    'version' => '0.1.5',
+    'version' => '0.9.5',
     'constraints' => [
         'depends' => [
-            'typo3' => '7.6.0-9.5.99',
+            'typo3' => '9.5.0-9.5.99',
             'php' => '7.0.0-7.2.99',
         ],
         'conflicts' => [],
